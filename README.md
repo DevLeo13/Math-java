@@ -1,3 +1,3 @@
 # Math-java
-java learning process
-mathematical operations in java
+java learning process <br>
+Mathematical operations in java
